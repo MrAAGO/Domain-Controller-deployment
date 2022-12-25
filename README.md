@@ -42,7 +42,8 @@ need to contact the system administrator for assistance.</p>
 </p>
 </body>
 </html>
-![2](https://user-images.githubusercontent.com/86381942/209482664-ef92b324-c0b3-4c9d-bfb5-abc351751d3e.png)
+
+![2](https://user-images.githubusercontent.com/86381942/209482686-3786be3a-78d2-473d-b432-19ab6014c7d3.png)
 
 
 ![3](https://user-images.githubusercontent.com/86381942/209482667-5e231373-f0ec-4895-b221-3b5465426593.png)
