@@ -59,7 +59,10 @@ Type the name of the domain that you want to join in the "Domain" field, and the
 
 ![4](https://user-images.githubusercontent.com/86381942/209482670-e48b0b7d-a7df-40ea-abaf-a167e5745a76.png)
 
-You will be prompted to enter the username and password of a user account that has permission to add computers to the domain. Enter the appropriate credentials, and then click on the "OK" button.
+You will be prompted to enter the username and password of a user account that has 
+permission to add computers to the domain. Enter the appropriate credentials, and then click on the "OK" button.
+
+
 ![5](https://user-images.githubusercontent.com/86381942/209482673-54aec776-0207-46aa-b2cf-81c69de3d3a9.png)
 The PC will now be added to the domain, and you will need to restart it for the changes to take effect.
 
