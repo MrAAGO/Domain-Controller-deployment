@@ -64,6 +64,8 @@ permission to add computers to the domain. Enter the appropriate credentials, an
 
 
 ![5](https://user-images.githubusercontent.com/86381942/209482673-54aec776-0207-46aa-b2cf-81c69de3d3a9.png)
+
+
 The PC will now be added to the domain, and you will need to restart it for the changes to take effect.
 
 ![8](https://user-images.githubusercontent.com/86381942/209482674-d1ae8691-0e3d-42aa-89df-275b600b7b5f.png)
