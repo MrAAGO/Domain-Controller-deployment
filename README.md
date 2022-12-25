@@ -43,15 +43,25 @@ need to contact the system administrator for assistance.</p>
 </body>
 </html>
 
+On the PC that you want to add to the domain, open the "System Properties" dialog box. You can do this by right-clicking on the "My Computer" icon and selecting "Properties", or by pressing the "Windows + Break" keys on your keyboard.
+
 ![2](https://user-images.githubusercontent.com/86381942/209482686-3786be3a-78d2-473d-b432-19ab6014c7d3.png)
 
 
+In the "System Properties" dialog box, click on the "Computer Name" tab.
+Click on the "Change" button.
+
 ![3](https://user-images.githubusercontent.com/86381942/209482667-5e231373-f0ec-4895-b221-3b5465426593.png)
+
+In the "Computer Name/Domain Changes" dialog box, click on the "Domain" radio button
+Type the name of the domain that you want to join in the "Domain" field, and then click on the "OK" button.
+
 
 ![4](https://user-images.githubusercontent.com/86381942/209482670-e48b0b7d-a7df-40ea-abaf-a167e5745a76.png)
 
+You will be prompted to enter the username and password of a user account that has permission to add computers to the domain. Enter the appropriate credentials, and then click on the "OK" button.
 ![5](https://user-images.githubusercontent.com/86381942/209482673-54aec776-0207-46aa-b2cf-81c69de3d3a9.png)
-
+The PC will now be added to the domain, and you will need to restart it for the changes to take effect.
 
 ![8](https://user-images.githubusercontent.com/86381942/209482674-d1ae8691-0e3d-42aa-89df-275b600b7b5f.png)
 
