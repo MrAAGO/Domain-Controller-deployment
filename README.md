@@ -26,12 +26,14 @@ following steps:</p>
 	or by pressing the &quot;Windows + Break&quot; keys on your
 	keyboard.</p>
 </ol>
-<p style="border: 1px solid #d9d9e3; padding: 0.02in"><img src="pc1_html_a01160db7c1e80d4.png" name="Image1" align="left" width="661" height="382" border="0"/>
+![pc1_html_a01160db7c1e80d4](https://user-images.githubusercontent.com/86381942/209482600-f2322bf8-0a40-4eb2-9090-a2f5640c63b2.png)
+
 <br/>
 <br/>
 
 </p>
-<p style="border: 1px solid #d9d9e3; padding: 0.02in"><img src="pc1_html_8a75044b6bdf0107.png" name="Image2" align="left" width="665" height="365" border="0"/>
+![pc1_html_8a75044b6bdf0107](https://user-images.githubusercontent.com/86381942/209482604-67ba9964-59a5-4b75-8c71-8d482299d061.png)
+
 <br/>
 <br/>
 
@@ -45,7 +47,8 @@ following steps:</p>
 <br/>
 
 </p>
-<p style="border: 1px solid #d9d9e3; padding: 0.02in"><img src="pc1_html_5aedff4779bb3b67.png" name="Image3" align="left" width="406" height="466" border="0"/>
+![pc1_html_5aedff4779bb3b67](https://user-images.githubusercontent.com/86381942/209482610-7de29ec5-af69-4538-a3d2-a46f38e908f5.png)
+
 <br/>
 <br/>
 
@@ -117,9 +120,10 @@ following steps:</p>
 </p>
 <p style="border: 1px solid #d9d9e3; padding: 0.02in"><br/>
 <br/>
+![pc1_html_f7ad6686d094211a](https://user-images.githubusercontent.com/86381942/209482612-6ab3a02b-d6ea-44ae-8251-6dea1efb7ae0.png)
 
 </p>
-<p style="border: 1px solid #d9d9e3; padding: 0.02in"><img src="pc1_html_f7ad6686d094211a.png" name="Image4" align="left" width="321" height="388" border="0"/>
+
 <br/>
 <br/>
 
@@ -153,7 +157,8 @@ following steps:</p>
 	appropriate credentials, and then click on the &quot;OK&quot;
 	button.</p>
 </ol>
-<p style="border: 1px solid #d9d9e3; padding: 0.02in"><img src="pc1_html_d038b41c65f54409.png" name="Image5" align="left" width="453" height="300" border="0"/>
+![pc1_html_d038b41c65f54409](https://user-images.githubusercontent.com/86381942/209482615-f5f83418-0205-4994-badd-bb6e1ea530d2.png)
+
 <br/>
 <br/>
 
@@ -203,10 +208,12 @@ following steps:</p>
 	will now be added to the domain, and you will need to restart it for
 	the changes to take effect.</p>
 </ol>
-<p style="border: 1px solid #d9d9e3; padding: 0.02in"><img src="pc1_html_1fb0768d8add9a68.png" name="Image6" align="left" width="250" height="153" border="0"/>
-<img src="pc1_html_2007c55747cb2695.png" name="Image7" align="left" width="348" height="179" border="0"/>
+
+
+<br/>![pc1_html_1fb0768d8add9a68](https://user-images.githubusercontent.com/86381942/209482625-436e8247-505d-4f93-8210-c3248b21fa78.png)
+
 <br/>
-<br/>
+![pc1_html_2007c55747cb2695](https://user-images.githubusercontent.com/86381942/209482626-31b59be7-565a-48df-82df-2d42de168dcc.png)
 
 </p>
 <p style="border: 1px solid #d9d9e3; padding: 0.02in"><br/>
